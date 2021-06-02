@@ -1,0 +1,54 @@
+.checkoutProduct{
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    border-bottom:1px solid rgb(226, 226, 226);
+}
+
+.checkoutProduct__info{
+    padding-left: 20px;
+
+}
+
+.checkoutProduct__info > button{
+    background-color: #f0c14b;
+    border: 1px solid;
+    margin:10px;
+    width: 200px;
+    padding: 5px; 
+    border-radius: 5px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    
+}
+
+.checkoutProduct__image{
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+}
+
+.checkoutProduct__title{
+    font-size: 16px;
+  font-weight:600;
+  color: rgb(58, 58, 58);   
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.checkoutProduct__rating{
+    display: flex;;
+    color: #f0c14b;
+}
+
+.checkoutProduct__desc{
+    font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:500;
+     color: rgb(170, 170, 170);
+}
+
+.checkoutProduct__price{
+    font-size:25px;
+    color:#131313;
+    font-weight: 450;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}

@@ -1,0 +1,23 @@
+.ordersHistory{
+    margin-top: 20px;
+    padding: 0px 80px;
+}
+
+.ordersHistory>h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family:  'Noto Sans', sans-serif;
+    color: black;
+}
+
+
+.order__logo{
+    text-align: center;
+    width: 100px;
+    padding-top: 20px;
+    margin: 0 auto;
+}
+
+.logoscale{
+    text-align: center;
+}

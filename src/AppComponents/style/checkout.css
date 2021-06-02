@@ -1,0 +1,29 @@
+.checkout{
+    display: flex;
+    padding:20px;
+    height: max-content;
+    /* background-color: white; */
+}
+
+
+.checkout__left{
+ flex: 1;
+}
+
+.product_con{
+    /* position: absolute; */
+    margin-right: 10px;
+    /* border-bottom: 1px solid lightgray; */
+    background-color: white;
+    box-shadow: 2px 1px 22px 2px #cfcfcf28;
+-webkit-box-shadow: 2px 1px 22px 2px #cfcfcf28;
+-moz-box-shadow: 2px 1px 22px 2px #cfcfcf28;
+}
+
+
+
+.checkout__title{
+   padding: 20px;
+   border-bottom:2px solid #e8e9eb; 
+   font-family: 'Noto Sans', sans-serif;
+font-weight:200 ;}
